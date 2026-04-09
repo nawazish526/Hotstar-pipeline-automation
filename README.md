@@ -20,6 +20,8 @@ Feature
 🔁 Reproducible       -->  Any build can be re-deployed from Nexus at any time
 
 🖥️ Live Application Preview --> The deployed Hotstar clone application, running on Apache Tomcat after a successful pipeline execution.
+![WhatsApp Image 2026-04-09 at 1 13 26 PM](https://github.com/user-attachments/assets/347df9dd-5284-4cbb-adab-a10dfaaadb11)
+
 
 
 
