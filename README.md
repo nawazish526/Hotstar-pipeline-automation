@@ -5,6 +5,8 @@ This project demonstrates a robust, end-to-end CI/CD pipeline for a Java Maven w
 
 
 💡 What Makes This Pipeline Special?
+
+🤔
 Feature
 ⚡ Fully Automated    -->  Zero manual steps from commit to deployment
 
