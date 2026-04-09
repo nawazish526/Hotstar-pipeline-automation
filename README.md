@@ -7,10 +7,15 @@ This project demonstrates a robust, end-to-end CI/CD pipeline for a Java Maven w
 💡 What Makes This Pipeline Special?
 Feature
 ⚡ Fully Automated    -->  Zero manual steps from commit to deployment
+
 🔍 Quality Enforced   -->  SonarQube gates block bad code from reaching production
+
 📦 Artifact Versioned -->  Every build is stored and versioned in Nexus
+
 ☁️ Cloud Backed       -->  WAR files archived to AWS S3 for disaster recovery
+
 🔁 Reproducible       -->  Any build can be re-deployed from Nexus at any time
+
 🖥️ Live Application Preview --> The deployed Hotstar clone application, running on Apache Tomcat after a successful pipeline execution.
 
 
