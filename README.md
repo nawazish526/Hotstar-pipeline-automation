@@ -26,6 +26,8 @@ Feature
                                     
 ![Tools and Tech](https://github.com/user-attachments/assets/03086cca-6f08-4492-bc5c-12e6ab239ccf)
 
+# Setup Instructions
 
 
 
+![WhatsApp Image 2026-04-09 at 1 34 21 PM](https://github.com/user-attachments/assets/e1bb67ee-29f2-4410-a862-0ca8185d317e)
