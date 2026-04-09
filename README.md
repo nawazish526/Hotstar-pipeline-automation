@@ -27,9 +27,9 @@ Feature
 ![Tools and Tech](https://github.com/user-attachments/assets/03086cca-6f08-4492-bc5c-12e6ab239ccf)
 
 # Setup Instructions
-Plugin---------------------------------------------------------------------------------- Purpose
+Plugin-----------------------------------------------*----------------------------------- Purpose
 
-Maven Integration Plugin                             |                                  Run Maven builds inside Jenkins
+Maven Integration Plugin-----------------------------|------------------------------------ Run Maven builds inside Jenkins
 
 SonarQube Scanner for Jenkins
 Connect Jenkins to SonarQube
