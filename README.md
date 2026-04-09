@@ -26,7 +26,7 @@ Feature
                                     
 ![Tools and Tech](https://github.com/user-attachments/assets/03086cca-6f08-4492-bc5c-12e6ab239ccf)
 
-# Setup Instructions
+# Plugin Used
 Plugin-----------------------------------------------*----------------------------------- Purpose
 
 Maven Integration Plugin-------------------------------------------------------------- Run Maven builds inside Jenkins
@@ -41,3 +41,13 @@ Nexus Artifact Uploader---------------------------------------------------------
 
 S3 publisher plugin------------------------------------------------------------------Upload files to AWS S3
 
+# Jenkins Credentials
+
+1.Tomcat Credentials
+2.Nexus  Credentials
+3.Sonar  Credentials
+4.AWS S3 Credentials
+
+# 👤 Author
+# A Creation by Nawazish 
+        Build with ❤
