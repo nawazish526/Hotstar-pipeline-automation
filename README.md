@@ -27,7 +27,17 @@ Feature
 ![Tools and Tech](https://github.com/user-attachments/assets/03086cca-6f08-4492-bc5c-12e6ab239ccf)
 
 # Setup Instructions
+Plugin                                                                                  Purpose
 
+Maven Integration Plugin                                                               Run Maven builds inside Jenkins
 
-
-![WhatsApp Image 2026-04-09 at 1 34 21 PM](https://github.com/user-attachments/assets/e1bb67ee-29f2-4410-a862-0ca8185d317e)
+SonarQube Scanner for Jenkins
+Connect Jenkins to SonarQube
+Sonar Quality Gates Plugin
+Enforce Quality Gate in pipeline
+Deploy to container Plugin
+Deploy WAR to Tomcat
+Nexus Artifact Uploader
+Push artifacts to Nexus
+S3 publisher plugin
+Upload files to AWS S3
