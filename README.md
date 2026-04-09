@@ -31,9 +31,9 @@ Plugin-----------------------------------------------*--------------------------
 
 Maven Integration Plugin-------------------------------------------------------------- Run Maven builds inside Jenkins
 
-SonarQube Scanner for Jenkins-----------------------------------------------------------Connect Jenkins to SonarQube
+SonarQube Scanner for Jenkins--------------------------------------------------------Connect Jenkins to SonarQube
 
-Sonar Quality Gates Plugin--------------------------------------------------------------Enforce Quality Gate in pipeline
+Sonar Quality Gates Plugin-----------------------------------------------------------Enforce Quality Gate in pipeline
 
 Deploy to container Plugin-----------------------------------------------------------Deploy WAR to Tomcat
 
