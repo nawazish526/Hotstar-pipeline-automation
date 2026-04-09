@@ -49,5 +49,4 @@ S3 publisher plugin-------------------------------------------------------------
 4.AWS S3 Credentials
 
 # 👤 Author
-# A Creation by Nawazish 
-        Build with ❤
+            -Crafted, Tested & Seamlessly Deployed by # Nawazish
